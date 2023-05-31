@@ -2,7 +2,7 @@
 
 **Welcome to my GitHub**
 
-Schön, dass du da bist ![image](https://github.com/BurakAnalyst/BurakAnalyst/assets/63739443/4afa1b9b-e1e9-492a-a67a-11cfbce0699f)
+🌱 **As a data enthusiast, I am actively expanding my knowledge and expertise to become a resourceful Data Analyst. With a passion for problem-solving and a commitment to detail, I extract valuable insights from complex datasets. My collaborative nature and practical experience, showcased on my GitHub account, demonstrate my ability to leverage programming languages, statistical tools, and visualization techniques to deliver impactful results. I am eager to contribute my skills and dedication to a dynamic team, pushing the boundaries of what's possible in data analysis. Let's discuss how I can benefit your organization.**
 
 
 <!--
