@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Welcome to my GitHub. **
+**Welcome to my GitHub**
 
 Schön, dass du da bist ![image](https://github.com/BurakAnalyst/BurakAnalyst/assets/63739443/4afa1b9b-e1e9-492a-a67a-11cfbce0699f)
 
